@@ -34,15 +34,6 @@
 - **Lab Inventory System** — Inventory Management System for Laboratories (Java)
 - **8086 Projects** — PIC/PIT/PPI labs & simulations
 
-## 📊 GitHub Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sheblink&show_icons=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheblink&layout=compact" />
-</p>
-
-## 🔥 Streak
-<img src="https://streak-stats.demolab.com?user=sheblink" />
-
 ---
 
 <p align="center">
