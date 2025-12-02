@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Christian Darrell Katigbak 👋</h1>
 <p align="center">
-  3rd Year Computer Engineering student in University of San Carlos • Java / Python / C  • Cebu, PH
+  3rd Year Computer Engineering student at University of San Carlos • Java / Python / C  • Cebu, PH
 </p>
 
 <p align="center">
@@ -17,7 +17,6 @@
 ---
 
 ## 🚀 About me
-- 🎓 Computer Engineering student at University of San Carlos
 - 🧠 Currently learning: Java OOP • Databases • Embedded/8086 • SQL(soon)
 - 🛠️ Building: inventory systems + school projects + 8086 Medicine timer
 
